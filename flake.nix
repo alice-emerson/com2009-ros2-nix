@@ -38,6 +38,8 @@
                 # Turtlebot
                 turtlebot3-gazebo
                 turtlebot3-teleop
+
+                example-interfaces
               ];
             })
           ];
